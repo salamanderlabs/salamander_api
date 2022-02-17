@@ -12,6 +12,6 @@
   "scripts": {
     "test": "eslint server.js && echo \"Lint OK\" && exit 0"
   },
-  "author": "Fabio Alessandrelli",
+  "author": "Fabio Alessandrelli ",
   "license": "MIT"
 }
